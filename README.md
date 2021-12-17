@@ -2,7 +2,7 @@
 
 Image segmentation on the [Aerial Semantic Segmentation Drone Dataset](https://www.kaggle.com/bulentsiyah/semantic-drone-dataset) with a VGG16 encoder Unet in Keras.
 
-Here are some results on validation dataset, the middle is the prediction, the right is the ground true. More information in the notebook.
+Here are some results on validation set, the middle is the prediction, the right is the ground true. More information in the notebook.
 
 ![example1](README.assets/example1.png)
 
